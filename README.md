@@ -1,0 +1,2 @@
+# BaiduYunCDP_windows
+个百度网盘高速下载工具,通过分析百度网盘Web接口API结合aria2实现多线程高速下载,目前只能在Windows平台下使用
